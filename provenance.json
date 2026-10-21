@@ -1,0 +1,54 @@
+{
+  "source_doi": "10.5281/zenodo.23540849",
+  "source_record": "https://zenodo.org/records/23540849",
+  "source_pdf_url": "https://zenodo.org/api/records/23540849/files/who-else-wants-to-know.pdf/content",
+  "source_filename": "who-else-wants-to-know.pdf",
+  "source_pdf_sha256": "fc7583e903f1059c74e5474e5f4bca9ae479a41b3b3189af23ff27abbc866979",
+  "source_pdf_md5": "89cbf73c8808ea3bcc02c4b83edbe057",
+  "source_bytes": 73003,
+  "source_pages": 3,
+  "source_blocks": 37,
+  "generated_utc": "2026-10-21T19:07:22.266963+00:00",
+  "normalization": "Unicode NFC and whitespace collapse; visual PDF line wraps removed; repeated page numbers excluded; first-page copyright retained as separate footer; published section order and emphasis preserved",
+  "manual_corrections": [],
+  "transformation": "PDF text and font runs frozen in source/publication.json with independent full-paragraph comparison against the approved authoring source; deterministic offline HTML, Markdown and bibliography conversion",
+  "validation": {
+    "required_command": "python scripts/validate_derivative.py --repo .",
+    "status_record": "Private release-review report; PASS is established by executing validation, not this metadata"
+  },
+  "original_section_order": "References then AI Assistance and Editorial Responsibility, exactly as the deposited PDF",
+  "keyword_mapping": {
+    "paper_keywords": [
+      "artificial intelligence",
+      "evidence discovery",
+      "question formation",
+      "collective purchasing",
+      "commissioned observations",
+      "observation finance",
+      "observation capability",
+      "evidence services"
+    ],
+    "zenodo_free_keywords": [
+      "evidence discovery",
+      "question formation",
+      "collective purchasing",
+      "commissioned observations",
+      "observation finance",
+      "observation capability",
+      "evidence services"
+    ],
+    "controlled_subjects": [
+      {
+        "label": "Artificial intelligence",
+        "scheme": "EuroSciVoc",
+        "id": "297"
+      },
+      {
+        "label": "Economics",
+        "scheme": "EuroSciVoc",
+        "id": "521"
+      }
+    ]
+  },
+  "rebuild": "python scripts/build_derivative.py --repo ."
+}
