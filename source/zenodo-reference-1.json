@@ -1,0 +1,162 @@
+{
+  "created": "2026-10-19T21:01:41.643058+00:00",
+  "modified": "2026-10-19T21:01:42.045438+00:00",
+  "id": 23464042,
+  "conceptrecid": "23464041",
+  "doi": "10.5281/zenodo.23464042",
+  "conceptdoi": "10.5281/zenodo.23464041",
+  "doi_url": "https://doi.org/10.5281/zenodo.23464042",
+  "metadata": {
+    "title": "When Questions Become Markets",
+    "doi": "10.5281/zenodo.23464042",
+    "publication_date": "2026-10-19",
+    "description": "<p>Questions become economically useful through work that makes them answerable, keeps observation capability available and turns findings into usable knowledge. Existing empirical studies show why this work belongs in the service and why its resource use needs to be counted. Howells reports fewer experimental trials, reduced factory wastage and a more informed purchaser in CERAM's work for IKEA. McCarthy and colleagues show farmers interpreting returned drone imagery with extension support. Aggeri and colleagues' platform cases place instruments inside continuing organizational arrangements. These findings inform present choices about what to purchase, maintain and return to participants. This report brings them together with information economics, data-market research, patents and financing precedents to examine an evidence economy and its possible extension through AI. Cheaper discovery could locate evidence that avoids collection, reveal a method that makes another action possible to assess, connect compatible buyers or retain useful work for later inquiries. Qualification, rights, access and continuing support determine the full cost of putting the additional connection to use. The proposed integrated AI service has no deployed-system evaluation or established commercial viability; its added benefit over capable procurement remains unmeasured. Specialists, embedded services, networks, cooperatives and public purchasers can organize different parts of this work. Their choices determine which questions receive resources, which capabilities endure and who controls the next inquiry.</p>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Pierce, Brad",
+        "affiliation": null,
+        "orcid": "0009-0009-7427-2969"
+      }
+    ],
+    "keywords": [
+      "evidence services",
+      "AI-assisted evidence discovery",
+      "observation capability",
+      "technical intermediation",
+      "engineering procurement",
+      "data markets",
+      "collective purchasing",
+      "observation finance",
+      "institutional memory"
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "10.1016/j.respol.2006.03.005",
+        "relation": "cites",
+        "resource_type": "publication-article",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.3390/agriculture13051075",
+        "relation": "cites",
+        "resource_type": "publication-article",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.4000/rei.2413",
+        "relation": "cites",
+        "resource_type": "publication-article",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5281/zenodo.23256253",
+        "relation": "cites",
+        "resource_type": "publication-report",
+        "scheme": "doi"
+      },
+      {
+        "identifier": "10.5281/zenodo.23377117",
+        "relation": "cites",
+        "resource_type": "publication-report",
+        "scheme": "doi"
+      }
+    ],
+    "language": "eng",
+    "resource_type": {
+      "title": "Report",
+      "type": "publication",
+      "subtype": "report"
+    },
+    "license": {
+      "id": "cc-by-nc-4.0"
+    },
+    "relations": {
+      "version": [
+        {
+          "index": 0,
+          "is_last": true,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "23464041"
+          }
+        }
+      ]
+    },
+    "method": "<p class=\"p1\">This report was developed by Brad Pierce with substantial assistance from an AI model. He established the&nbsp;research objectives and editorial direction and retains responsibility for the claims, source attributions, and&nbsp;decisions about publication.</p>"
+  },
+  "title": "When Questions Become Markets",
+  "links": {
+    "self": "https://zenodo.org/api/records/23464042",
+    "self_html": "https://zenodo.org/records/23464042",
+    "preview_html": "https://zenodo.org/records/23464042?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.23464042",
+    "self_doi": "https://doi.org/10.5281/zenodo.23464042",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.23464042",
+    "reserve_doi": "https://zenodo.org/api/records/23464042/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/23464041",
+    "parent_html": "https://zenodo.org/records/23464041",
+    "parent_doi": "https://doi.org/10.5281/zenodo.23464041",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.23464041",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:23464042/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:23464042/sequence/default",
+    "files": "https://zenodo.org/api/records/23464042/files",
+    "media_files": "https://zenodo.org/api/records/23464042/media-files",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:23464042:when-questions-become-markets.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:23464042:when-questions-become-markets.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:23464042:when-questions-become-markets.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:23464042:when-questions-become-markets.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:23464042:when-questions-become-markets.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:23464042:when-questions-become-markets.pdf/full/%5E1200,/0/default.jpg"
+    },
+    "latest": "https://zenodo.org/api/records/23464042/versions/latest",
+    "latest_html": "https://zenodo.org/records/23464042/latest",
+    "versions": "https://zenodo.org/api/records/23464042/versions",
+    "draft": "https://zenodo.org/api/records/23464042/draft",
+    "access_links": "https://zenodo.org/api/records/23464042/access/links",
+    "access_grants": "https://zenodo.org/api/records/23464042/access/grants",
+    "access_users": "https://zenodo.org/api/records/23464042/access/users",
+    "access_request": "https://zenodo.org/api/records/23464042/access/request",
+    "access": "https://zenodo.org/api/records/23464042/access",
+    "communities": "https://zenodo.org/api/records/23464042/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/23464042/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/23464042/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/23464042/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/23464042/quota-increase",
+    "requests": "https://zenodo.org/api/records/23464042/requests"
+  },
+  "updated": "2026-10-19T21:01:42.045438+00:00",
+  "recid": "23464042",
+  "revision": 3,
+  "files": [
+    {
+      "id": "7600cae2-80de-44cb-9494-3d026b6efe69",
+      "key": "when-questions-become-markets.pdf",
+      "size": 2085240,
+      "checksum": "md5:e4cd2066cd8df17bf47031fb5449c16d",
+      "links": {
+        "self": "https://zenodo.org/api/records/23464042/files/when-questions-become-markets.pdf/content"
+      }
+    }
+  ],
+  "swh": {},
+  "owners": [
+    {
+      "id": "1888563"
+    }
+  ],
+  "status": "published",
+  "stats": {
+    "downloads": 3,
+    "unique_downloads": 2,
+    "views": 6,
+    "unique_views": 3,
+    "version_downloads": 3,
+    "version_unique_downloads": 2,
+    "version_unique_views": 3,
+    "version_views": 6
+  },
+  "state": "done",
+  "submitted": true
+}

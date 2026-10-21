@@ -1,0 +1,548 @@
+{
+  "schema_version": 1,
+  "title": "Who Else Wants to Know?",
+  "subtitle": "How AI could help strangers discover unexpected questions and fund the answers together.",
+  "authors": [
+    {
+      "name": "Brad Pierce",
+      "family": "Pierce",
+      "given": "Brad",
+      "orcid": "0009-0009-7427-2969"
+    }
+  ],
+  "publication_date": "2026-10-21",
+  "manuscript_date": "2026-10-21",
+  "doi": "10.5281/zenodo.23540849",
+  "concept_doi": "10.5281/zenodo.23540848",
+  "record_url": "https://zenodo.org/records/23540849",
+  "pdf_filename": "who-else-wants-to-know.pdf",
+  "article_url": "https://bradpierce.ai/who-else-wants-to-know/",
+  "pdf_url": "https://bradpierce.ai/who-else-wants-to-know/who-else-wants-to-know.pdf",
+  "repository_full_name": "bradpierce-ai-eda/who-else-wants-to-know",
+  "abstract": "AI could help people discover questions they hadn’t imagined, connect them with unfamiliar sources and measurement capabilities, and bring buyers together to fund new observations. This speculative essay explores that possibility through freight, weather and urban infrastructure examples. It considers how shared purchases can support lasting observation capability while buyers remain unknown to one another, and how funding choices shape which questions get investigated.",
+  "keywords": [
+    "artificial intelligence",
+    "evidence discovery",
+    "question formation",
+    "collective purchasing",
+    "commissioned observations",
+    "observation finance",
+    "observation capability",
+    "evidence services"
+  ],
+  "zenodo_free_keywords": [
+    "evidence discovery",
+    "question formation",
+    "collective purchasing",
+    "commissioned observations",
+    "observation finance",
+    "observation capability",
+    "evidence services"
+  ],
+  "controlled_subjects": [
+    {
+      "label": "Artificial intelligence",
+      "scheme": "EuroSciVoc",
+      "id": "297"
+    },
+    {
+      "label": "Economics",
+      "scheme": "EuroSciVoc",
+      "id": "521"
+    }
+  ],
+  "controlled_subjects_evidence": "Published Zenodo browser record inspected October 21, 2026; legacy API does not expose controlled subjects",
+  "resource_type": {
+    "title": "Other",
+    "type": "publication",
+    "subtype": "other"
+  },
+  "license": "CC-BY-NC-4.0",
+  "copyright": "© 2026 Brad Pierce · CC BY-NC 4.0",
+  "source_pdf_sha256": "fc7583e903f1059c74e5474e5f4bca9ae479a41b3b3189af23ff27abbc866979",
+  "source_pdf_md5": "89cbf73c8808ea3bcc02c4b83edbe057",
+  "source_pdf_size": 73003,
+  "source_page_count": 3,
+  "blocks": [
+    {
+      "text": "Who Else Wants to Know?",
+      "runs": [
+        {
+          "style": "bold",
+          "text": "Who Else Wants to Know?"
+        }
+      ],
+      "source_page": 1,
+      "role": "title"
+    },
+    {
+      "text": "How AI could help strangers discover unexpected questions and fund the answers together.",
+      "runs": [
+        {
+          "style": "plain",
+          "text": "How AI could help strangers discover unexpected questions and fund the answers together."
+        }
+      ],
+      "source_page": 1,
+      "role": "subtitle"
+    },
+    {
+      "text": "Brad Pierce",
+      "runs": [
+        {
+          "style": "plain",
+          "text": "Brad Pierce"
+        }
+      ],
+      "source_page": 1,
+      "role": "author"
+    },
+    {
+      "text": "October 21, 2026",
+      "runs": [
+        {
+          "style": "plain",
+          "text": "October 21, 2026"
+        }
+      ],
+      "source_page": 1,
+      "role": "date"
+    },
+    {
+      "text": "https://doi.org/10.5281/zenodo.23540849",
+      "runs": [
+        {
+          "style": "plain",
+          "text": "https://doi.org/10.5281/zenodo.23540849"
+        }
+      ],
+      "source_page": 1,
+      "role": "doi"
+    },
+    {
+      "text": "Abstract",
+      "runs": [
+        {
+          "style": "bold",
+          "text": "Abstract"
+        }
+      ],
+      "source_page": 1,
+      "role": "heading"
+    },
+    {
+      "text": "AI could help people discover questions they hadn’t imagined, connect them with unfamiliar sources and measurement capabilities, and bring buyers together to fund new observations. This speculative essay explores that possibility through freight, weather and urban infrastructure examples. It considers how shared purchases can support lasting observation capability while buyers remain unknown to one another, and how funding choices shape which questions get investigated.",
+      "runs": [
+        {
+          "style": "plain",
+          "text": "AI could help people discover questions they hadn’t imagined, connect them with unfamiliar sources and measurement capabilities, and bring buyers together to fund new observations. This speculative essay explores that possibility through freight, weather and urban infrastructure examples. It considers how shared purchases can support lasting observation capability while buyers remain unknown to one another, and how funding choices shape which questions get investigated."
+        }
+      ],
+      "source_page": 1,
+      "role": "abstract"
+    },
+    {
+      "text": "Keywords: artificial intelligence; evidence discovery; question formation; collective purchasing; commissioned observations; observation finance; observation capability; evidence services",
+      "runs": [
+        {
+          "style": "italic",
+          "text": "Keywords: "
+        },
+        {
+          "style": "plain",
+          "text": "artificial intelligence; evidence discovery; question formation; collective purchasing; commissioned observations; observation finance; observation capability; evidence services"
+        }
+      ],
+      "source_page": 1,
+      "role": "keywords"
+    },
+    {
+      "text": "Three strangers help pay for an experiment they hadn’t thought to commission. They never learn one another’s names.",
+      "runs": [
+        {
+          "style": "bold",
+          "text": "Three strangers help pay for an experiment they hadn’t thought to commission. "
+        },
+        {
+          "style": "plain",
+          "text": "They never learn one another’s names."
+        }
+      ],
+      "source_page": 1,
+      "role": "paragraph"
+    },
+    {
+      "text": "One grows peaches. One looks after paintings. One makes precision instruments.",
+      "runs": [
+        {
+          "style": "plain",
+          "text": "One grows peaches. One looks after paintings. One makes precision instruments."
+        }
+      ],
+      "source_page": 1,
+      "role": "paragraph"
+    },
+    {
+      "text": "Their shipments sometimes arrive damaged: bruised fruit, a painting with a new crack, an instrument knocked out of alignment. Each sees a problem inside a particular business. Now imagine an AI finding a connection in their shipping records and damage reports. All three need a better account of what happens to freight on its journey.",
+      "runs": [
+        {
+          "style": "plain",
+          "text": "Their shipments sometimes arrive damaged: bruised fruit, a painting with a new crack, an instrument knocked out of alignment. Each sees a problem inside a particular business. Now imagine an AI finding a connection in their shipping records and damage reports. All three need a better account of what happens to freight on its journey."
+        }
+      ],
+      "source_page": 1,
+      "role": "paragraph"
+    },
+    {
+      "text": "It finds a laboratory and develops a proposal. Test packages fitted with sensors record shocks, vibration, temperature and humidity along selected routes. Each buyer adds the samples and checks its own question requires. They share the cost of the journeys, equipment and common measurements. None can justify paying for the whole campaign, but each is willing to buy part of it.",
+      "runs": [
+        {
+          "style": "plain",
+          "text": "It finds a laboratory and develops a proposal. Test packages fitted with sensors record shocks, vibration, temperature and humidity along selected routes. Each buyer adds the samples and checks its own question requires. They share the cost of the journeys, equipment and common measurements. None can justify paying for the whole campaign, but each is willing to buy part of it."
+        }
+      ],
+      "source_page": 1,
+      "role": "paragraph"
+    },
+    {
+      "text": "The investigation changes what they ask. Maybe the long journey matters less than a few minutes of handling at one transfer point. Maybe a packing method used for artworks suggests something worth testing for fruit. The service finds that connection without disclosing either customer’s identity.",
+      "runs": [
+        {
+          "style": "bold",
+          "text": "The investigation changes what they ask. "
+        },
+        {
+          "style": "plain",
+          "text": "Maybe the long journey matters less than a few minutes of handling at one transfer point. Maybe a packing method used for artworks suggests something worth testing for fruit. The service finds that connection without disclosing either customer’s identity."
+        }
+      ],
+      "source_page": 1,
+      "role": "paragraph"
+    },
+    {
+      "text": "When Questions Become Markets [1] explores how AI could help make such arrangements possible. Sometimes an answer already exists in another organization’s records. Sometimes people have to arrange an experiment to find out. Learning what someone else can observe also changes what they decide to investigate.",
+      "runs": [
+        {
+          "style": "italic",
+          "text": "When Questions Become Markets "
+        },
+        {
+          "style": "plain",
+          "text": "[1] explores how AI could help make such arrangements possible. Sometimes an answer already exists in another organization’s records. Sometimes people have to arrange an experiment to find out. Learning what someone else can observe also changes what they decide to investigate."
+        }
+      ],
+      "source_page": 1,
+      "role": "paragraph"
+    },
+    {
+      "text": "A manufacturer worried about a part wearing out begins by asking whether to redesign it. An AI finds a service company with years of repair records and a laboratory that can measure conditions around the part while it runs. That opens another question: would changing how the equipment is used make the existing design last longer? The manufacturer has another choice to investigate.",
+      "runs": [
+        {
+          "style": "plain",
+          "text": "A manufacturer worried about a part wearing out begins by asking whether to redesign it. An AI finds a service company with years of repair records and a laboratory that can measure conditions around the part while it runs. That opens another question: would changing how the equipment is used make the existing design last longer? The manufacturer has another choice to investigate."
+        }
+      ],
+      "source_page": 1,
+      "role": "paragraph"
+    },
+    {
+      "text": "Good engineers and researchers already make connections like these. AI extends their search across languages and industries. It starts with an expensive unanswered question and looks for someone able to help, or examines a company’s records and equipment and looks for possible customers. A researcher searching for evidence about fatigue may miss repair records filed under worn seals and replacement schedules. AI helps recognize the connection and brings it to someone able to judge whether it holds.",
+      "runs": [
+        {
+          "style": "plain",
+          "text": "Good engineers and researchers already make connections like these. AI extends their search across languages and industries. It starts with an expensive unanswered question and looks for someone able to help, or examines a company’s records and equipment and looks for possible customers. A researcher searching for evidence about fatigue may miss repair records filed under worn seals and replacement schedules. AI helps recognize the connection and brings it to someone able to judge whether it holds."
+        }
+      ],
+      "source_page": 2,
+      "role": "paragraph"
+    },
+    {
+      "text": "Consider another imagined encounter, in a valley with orchards, a small airport and a communications network. Growers worry about frost. Airport staff want better information about fog. The network operator is investigating radio links that behave unpredictably on certain mornings.",
+      "runs": [
+        {
+          "style": "plain",
+          "text": "Consider another imagined encounter, in a valley with orchards, a small airport and a communications network. Growers worry about frost. Airport staff want better information about fog. The network operator is investigating radio links that behave unpredictably on certain mornings."
+        }
+      ],
+      "source_page": 2,
+      "role": "paragraph"
+    },
+    {
+      "text": "An AI comparing their needs suggests something worth checking: maybe all three would benefit from a better picture of the air above the valley before sunrise. It finds atmospheric researchers who assess that possibility. They propose measuring temperature, humidity and wind at several locations and heights, while recording what happens to the crops, visibility and radio links.",
+      "runs": [
+        {
+          "style": "plain",
+          "text": "An AI comparing their needs suggests something worth checking: maybe all three would benefit from a better picture of the air above the valley before sunrise. It finds atmospheric researchers who assess that possibility. They propose measuring temperature, humidity and wind at several locations and heights, while recording what happens to the crops, visibility and radio links."
+        }
+      ],
+      "source_page": 2,
+      "role": "paragraph"
+    },
+    {
+      "text": "Each buyer needs its own analysis. But they share enough equipment and fieldwork to pay for a season of observations none would have commissioned alone. They began with different problems and found that some of the work needed to understand them belongs in the same investigation.",
+      "runs": [
+        {
+          "style": "plain",
+          "text": "Each buyer needs its own analysis. But they share enough equipment and fieldwork to pay for a season of observations none would have commissioned alone. They began with different problems and found that some of the work needed to understand them belongs in the same investigation."
+        }
+      ],
+      "source_page": 2,
+      "role": "paragraph"
+    },
+    {
+      "text": "Finding these groups becomes a business. People often need to see a possible investigation before they know what they’re willing to buy. One organization learns that a question can be tested. Another discovers that a small addition would answer its question too. A third offers access to equipment or sites. The AI service revises the proposal as they respond, finding specialists and working out which costs they can share.",
+      "runs": [
+        {
+          "style": "bold",
+          "text": "Finding these groups becomes a business. "
+        },
+        {
+          "style": "plain",
+          "text": "People often need to see a possible investigation before they know what they’re willing to buy. One organization learns that a question can be tested. Another discovers that a small addition would answer its question too. A third offers access to equipment or sites. The AI service revises the proposal as they respond, finding specialists and working out which costs they can share."
+        }
+      ],
+      "source_page": 2,
+      "role": "paragraph"
+    },
+    {
+      "text": "The buyers don’t have to meet. We routinely pay for work done by people we don’t know, and an evidence service arranges separate purchases around a common study. It handles contributions, payments and delivery while keeping customers’ identities and private questions apart. Each buyer receives a clear account of the work, its price, who’s responsible for delivery and what the findings can establish.",
+      "runs": [
+        {
+          "style": "bold",
+          "text": "The buyers don’t have to meet. "
+        },
+        {
+          "style": "plain",
+          "text": "We routinely pay for work done by people we don’t know, and an evidence service arranges separate purchases around a common study. It handles contributions, payments and delivery while keeping customers’ identities and private questions apart. Each buyer receives a clear account of the work, its price, who’s responsible for delivery and what the findings can establish."
+        }
+      ],
+      "source_page": 2,
+      "role": "paragraph"
+    },
+    {
+      "text": "Imagine this happening beneath a city street. The city wants to preserve mature trees while dealing with damaged sidewalks. A water utility is investigating pipe failures. An insurer wants to understand ground movement affecting homes. Each has part of the picture in its inspections, repair records and damage reports.",
+      "runs": [
+        {
+          "style": "plain",
+          "text": "Imagine this happening beneath a city street. The city wants to preserve mature trees while dealing with damaged sidewalks. A water utility is investigating pipe failures. An insurer wants to understand ground movement affecting homes. Each has part of the picture in its inspections, repair records and damage reports."
+        }
+      ],
+      "source_page": 2,
+      "role": "paragraph"
+    },
+    {
+      "text": "An AI lines up those records by place and time and suggests streets worth studying. It proposes following selected locations through a dry season and subsequent rain, measuring soil moisture, temperature and movement while recording the condition of nearby trees, pipes and buildings.",
+      "runs": [
+        {
+          "style": "plain",
+          "text": "An AI lines up those records by place and time and suggests streets worth studying. It proposes following selected locations through a dry season and subsequent rain, measuring soil moisture, temperature and movement while recording the condition of nearby trees, pipes and buildings."
+        }
+      ],
+      "source_page": 2,
+      "role": "paragraph"
+    },
+    {
+      "text": "The city offers sites and field staff. The utility contributes access and repair records. The insurer helps pay for monitoring. Researchers design the study and explain what conclusions its measurements can support. Each buyer uses the findings to assess which local conditions call for different maintenance choices.",
+      "runs": [
+        {
+          "style": "plain",
+          "text": "The city offers sites and field staff. The utility contributes access and repair records. The insurer helps pay for monitoring. Researchers design the study and explain what conclusions its measurements can support. Each buyer uses the findings to assess which local conditions call for different maintenance choices."
+        }
+      ],
+      "source_page": 2,
+      "role": "paragraph"
+    },
+    {
+      "text": "Getting from a suggested connection to a funded study takes work. The buyers must agree on what they’re purchasing, and researchers must establish that the measurements can help answer their questions. Someone has to cover setup costs before the observations arrive. An AI service earns its fee by helping develop a study worth buying and securing the commitments needed to carry it out.",
+      "runs": [
+        {
+          "style": "plain",
+          "text": "Getting from a suggested connection to a funded study takes work. The buyers must agree on what they’re purchasing, and researchers must establish that the measurements can help answer their questions. Someone has to cover setup costs before the observations arrive. An AI service earns its fee by helping develop a study worth buying and securing the commitments needed to carry it out."
+        }
+      ],
+      "source_page": 2,
+      "role": "paragraph"
+    },
+    {
+      "text": "The benefits continue after the first customers receive their results. A laboratory keeps equipment and a method it can use for another job. Technicians learn a procedure that helps with their ordinary work. Growers receive findings they can use on their own land. Even a result that rules out a promising idea saves someone an expensive mistake.",
+      "runs": [
+        {
+          "style": "plain",
+          "text": "The benefits continue after the first customers receive their results. A laboratory keeps equipment and a method it can use for another job. Technicians learn a procedure that helps with their ordinary work. Growers receive findings they can use on their own land. Even a result that rules out a promising idea saves someone an expensive mistake."
+        }
+      ],
+      "source_page": 2,
+      "role": "paragraph"
+    },
+    {
+      "text": "With experience, the service learns which methods work under which conditions, who can perform them and what made earlier studies difficult. Keeping those records current, within the uses participants have allowed, helps the next customer decide where to begin.",
+      "runs": [
+        {
+          "style": "plain",
+          "text": "With experience, the service learns which methods work under which conditions, who can perform them and what made earlier studies difficult. Keeping those records current, within the uses participants have allowed, helps the next customer decide where to begin."
+        }
+      ],
+      "source_page": 3,
+      "role": "paragraph"
+    },
+    {
+      "text": "The service also looks for brief opportunities to make a measurement. A machine is coming apart for maintenance. A scheduled voyage has room for another instrument. A renovation will expose material normally hidden from view. AI finds buyers interested in an observation while that window is open and helps them share the extra cost.",
+      "runs": [
+        {
+          "style": "plain",
+          "text": "The service also looks for brief opportunities to make a measurement. A machine is coming apart for maintenance. A scheduled voyage has room for another instrument. A renovation will expose material normally hidden from view. AI finds buyers interested in an observation while that window is open and helps them share the extra cost."
+        }
+      ],
+      "source_page": 3,
+      "role": "paragraph"
+    },
+    {
+      "text": "Those purchases affect what gets studied next. Commercial orders help a local laboratory retain its staff, but they also compete for time with community studies. Funding terms determine whether equipment and skills stay with a local operator or an outside firm gains control over their use. Some questions attract no paying customer. Governments, research funders and communities still have to decide which investigations deserve support.",
+      "runs": [
+        {
+          "style": "plain",
+          "text": "Those purchases affect what gets studied next. Commercial orders help a local laboratory retain its staff, but they also compete for time with community studies. Funding terms determine whether equipment and skills stay with a local operator or an outside firm gains control over their use. Some questions attract no paying customer. Governments, research funders and communities still have to decide which investigations deserve support."
+        }
+      ],
+      "source_page": 3,
+      "role": "paragraph"
+    },
+    {
+      "text": "When Design Exploration Gets Cheap [2] examines how cheaper design ideas shift attention toward finding out which ones work. In this vision, AI helps organize the testing as well as suggest what to test. A small company contributes observations to a major industrial study. A laboratory finds customers in a field it’s never served. Separate purchases support an investigation that was beyond every buyer’s reach.",
+      "runs": [
+        {
+          "style": "italic",
+          "text": "When Design Exploration Gets Cheap "
+        },
+        {
+          "style": "plain",
+          "text": "[2] examines how cheaper design ideas shift attention toward finding out which ones work. In this vision, AI helps organize the testing as well as suggest what to test. A small company contributes observations to a major industrial study. A laboratory finds customers in a field it’s never served. Separate purchases support an investigation that was beyond every buyer’s reach."
+        }
+      ],
+      "source_page": 3,
+      "role": "paragraph"
+    },
+    {
+      "text": "The peach grower receives a proposal for a shipping study at a price made possible by other customers. The museum receives a separate offer for work using the same campaign. Neither has to know who else is buying. Each judges whether the proposed findings justify its share of the cost.",
+      "runs": [
+        {
+          "style": "plain",
+          "text": "The peach grower receives a proposal for a shipping study at a price made possible by other customers. The museum receives a separate offer for work using the same campaign. Neither has to know who else is buying. Each judges whether the proposed findings justify its share of the cost."
+        }
+      ],
+      "source_page": 3,
+      "role": "paragraph"
+    },
+    {
+      "text": "Months later, the first measurements arrive. Maybe they change how the grower packs fruit or how the museum plans its next shipment. Maybe they raise another question. The buyers remain strangers, while the laboratory keeps a tested method and the service learns what it can offer next. A later customer asks something none of them had considered and finds that part of the work is already done.",
+      "runs": [
+        {
+          "style": "plain",
+          "text": "Months later, the first measurements arrive. Maybe they change how the grower packs fruit or how the museum plans its next shipment. Maybe they raise another question. The buyers remain strangers, while the laboratory keeps a tested method and the service learns what it can offer next. A later customer asks something none of them had considered and finds that part of the work is already done."
+        }
+      ],
+      "source_page": 3,
+      "role": "paragraph"
+    },
+    {
+      "text": "References",
+      "runs": [
+        {
+          "style": "bold",
+          "text": "References"
+        }
+      ],
+      "source_page": 3,
+      "role": "heading"
+    },
+    {
+      "text": "[1] Pierce, B. (2026). When questions become markets: AI, evidence discovery, and the financing of new observations. Zenodo. https://doi.org/10.5281/zenodo.23464042.",
+      "runs": [
+        {
+          "style": "plain",
+          "text": "[1] Pierce, B. (2026). "
+        },
+        {
+          "style": "italic",
+          "text": "When questions become markets: AI, evidence discovery, and the financing of new observations"
+        },
+        {
+          "style": "plain",
+          "text": ". Zenodo. https://doi.org/10.5281/zenodo.23464042."
+        }
+      ],
+      "source_page": 3,
+      "role": "reference"
+    },
+    {
+      "text": "[2] Pierce, B. (2026). When design exploration gets cheap: Upstream search, downstream truth, and the migration of scarcity in chip design. Zenodo. https://doi.org/10.5281/zenodo.23256253.",
+      "runs": [
+        {
+          "style": "plain",
+          "text": "[2] Pierce, B. (2026). "
+        },
+        {
+          "style": "italic",
+          "text": "When design exploration gets cheap: Upstream search, downstream truth, and the migration of scarcity in chip design"
+        },
+        {
+          "style": "plain",
+          "text": ". Zenodo. https://doi.org/10.5281/zenodo.23256253."
+        }
+      ],
+      "source_page": 3,
+      "role": "reference"
+    },
+    {
+      "text": "AI Assistance and Editorial Responsibility",
+      "runs": [
+        {
+          "style": "bold",
+          "text": "AI Assistance and Editorial Responsibility"
+        }
+      ],
+      "source_page": 3,
+      "role": "heading"
+    },
+    {
+      "text": "This report was developed by Brad Pierce with substantial assistance from an AI model. He established the research objectives and editorial direction and retains responsibility for the claims, source attributions, and decisions about publication.",
+      "runs": [
+        {
+          "style": "plain",
+          "text": "This report was developed by Brad Pierce with substantial assistance from an AI model. He established the research objectives and editorial direction and retains responsibility for the claims, source attributions, and decisions about publication."
+        }
+      ],
+      "source_page": 3,
+      "role": "paragraph"
+    }
+  ],
+  "counts": {
+    "references": 2,
+    "works": 2,
+    "figures": 0,
+    "tables": 0,
+    "body_paragraphs": 24
+  },
+  "source_pdf_url": "https://zenodo.org/api/records/23540849/files/who-else-wants-to-know.pdf/content",
+  "generation_date_utc": "2026-10-21T19:07:22.266963+00:00",
+  "normalization": "Unicode NFC and whitespace collapse; visual PDF line wraps removed; repeated page numbers excluded; first-page copyright retained as separate footer; published section order and emphasis preserved",
+  "manual_corrections": [],
+  "repository_framing": {
+    "scope": [
+      "This essay considers AI-assisted question formation, cross-field evidence discovery, collective purchasing and commissioned observations. Its imagined freight, atmospheric and urban infrastructure examples explore how separate buyers can support shared investigations while remaining unknown to one another.",
+      "The essay is a citation for this speculative vision and its illustrative applications. The two cited reports are the sources for its broader evidence-economy and design-evaluation arguments.",
+      "The DOI-linked Zenodo essay is the publication of record. This repository provides machine-readable representations of that edition."
+    ],
+    "description": "A speculative essay on AI discovering unexpected questions and pooling buyers to fund observations, with the Zenodo DOI as publication of record.",
+    "topics": [
+      "artificial-intelligence",
+      "evidence-discovery",
+      "question-formation",
+      "collective-purchasing",
+      "observation-finance",
+      "data-markets",
+      "research-infrastructure",
+      "evidence-services"
+    ]
+  }
+}
