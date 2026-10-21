@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "works": [
+    {
+      "id": "who_else_ref_001",
+      "citekey": "who_else_ref_001",
+      "type": "report",
+      "title": "When questions become markets: AI, evidence discovery, and the financing of new observations",
+      "author": [
+        {
+          "family": "Pierce",
+          "given": "Brad",
+          "ORCID": "https://orcid.org/0009-0009-7427-2969"
+        }
+      ],
+      "issued": "2026-10-19",
+      "publisher": "Zenodo",
+      "DOI": "10.5281/zenodo.23464042",
+      "URL": "https://doi.org/10.5281/zenodo.23464042",
+      "field_provenance": {
+        "title": "Exact published reference; main title independently confirmed by Zenodo metadata",
+        "author": "Zenodo metadata creators",
+        "issued": "Zenodo publication_date",
+        "publisher": "Exact published reference",
+        "DOI": "Published reference and Zenodo metadata"
+      },
+      "source_record": "source/zenodo-reference-1.json"
+    },
+    {
+      "id": "who_else_ref_002",
+      "citekey": "who_else_ref_002",
+      "type": "report",
+      "title": "When design exploration gets cheap: Upstream search, downstream truth, and the migration of scarcity in chip design",
+      "author": [
+        {
+          "family": "Pierce",
+          "given": "Brad",
+          "ORCID": "https://orcid.org/0009-0009-7427-2969"
+        }
+      ],
+      "issued": "2026-10-09",
+      "publisher": "Zenodo",
+      "DOI": "10.5281/zenodo.23256253",
+      "URL": "https://doi.org/10.5281/zenodo.23256253",
+      "field_provenance": {
+        "title": "Exact published reference; main title independently confirmed by Zenodo metadata",
+        "author": "Zenodo metadata creators",
+        "issued": "Zenodo publication_date",
+        "publisher": "Exact published reference",
+        "DOI": "Published reference and Zenodo metadata"
+      },
+      "source_record": "source/zenodo-reference-2.json"
+    }
+  ],
+  "slots": [
+    {
+      "number": 1,
+      "published": "[1] Pierce, B. (2026). When questions become markets: AI, evidence discovery, and the financing of new observations. Zenodo. https://doi.org/10.5281/zenodo.23464042.",
+      "work_ids": [
+        "who_else_ref_001"
+      ],
+      "classification": "single-work"
+    },
+    {
+      "number": 2,
+      "published": "[2] Pierce, B. (2026). When design exploration gets cheap: Upstream search, downstream truth, and the migration of scarcity in chip design. Zenodo. https://doi.org/10.5281/zenodo.23256253.",
+      "work_ids": [
+        "who_else_ref_002"
+      ],
+      "classification": "single-work"
+    }
+  ],
+  "completeness": {
+    "slots": 2,
+    "works": 2,
+    "links": 2,
+    "composite_slots": 0,
+    "reused_works": 0,
+    "undated_works": 0,
+    "unresolved_fields": []
+  },
+  "exceptions": []
+}

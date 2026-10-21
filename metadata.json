@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "title": "Who Else Wants to Know?",
+  "subtitle": "How AI could help strangers discover unexpected questions and fund the answers together.",
+  "authors": [
+    {
+      "name": "Brad Pierce",
+      "family": "Pierce",
+      "given": "Brad",
+      "orcid": "0009-0009-7427-2969"
+    }
+  ],
+  "publication_date": "2026-10-21",
+  "manuscript_date": "2026-10-21",
+  "doi": "10.5281/zenodo.23540849",
+  "concept_doi": "10.5281/zenodo.23540848",
+  "record_url": "https://zenodo.org/records/23540849",
+  "pdf_filename": "who-else-wants-to-know.pdf",
+  "article_url": "https://bradpierce.ai/who-else-wants-to-know/",
+  "pdf_url": "https://bradpierce.ai/who-else-wants-to-know/who-else-wants-to-know.pdf",
+  "repository_full_name": "bradpierce-ai-eda/who-else-wants-to-know",
+  "abstract": "AI could help people discover questions they hadn’t imagined, connect them with unfamiliar sources and measurement capabilities, and bring buyers together to fund new observations. This speculative essay explores that possibility through freight, weather and urban infrastructure examples. It considers how shared purchases can support lasting observation capability while buyers remain unknown to one another, and how funding choices shape which questions get investigated.",
+  "keywords": [
+    "artificial intelligence",
+    "evidence discovery",
+    "question formation",
+    "collective purchasing",
+    "commissioned observations",
+    "observation finance",
+    "observation capability",
+    "evidence services"
+  ],
+  "zenodo_free_keywords": [
+    "evidence discovery",
+    "question formation",
+    "collective purchasing",
+    "commissioned observations",
+    "observation finance",
+    "observation capability",
+    "evidence services"
+  ],
+  "controlled_subjects": [
+    {
+      "label": "Artificial intelligence",
+      "scheme": "EuroSciVoc",
+      "id": "297"
+    },
+    {
+      "label": "Economics",
+      "scheme": "EuroSciVoc",
+      "id": "521"
+    }
+  ],
+  "controlled_subjects_evidence": "Published Zenodo browser record inspected October 21, 2026; legacy API does not expose controlled subjects",
+  "resource_type": {
+    "title": "Other",
+    "type": "publication",
+    "subtype": "other"
+  },
+  "license": "CC-BY-NC-4.0",
+  "copyright": "© 2026 Brad Pierce · CC BY-NC 4.0",
+  "source_pdf_sha256": "fc7583e903f1059c74e5474e5f4bca9ae479a41b3b3189af23ff27abbc866979",
+  "source_pdf_md5": "89cbf73c8808ea3bcc02c4b83edbe057",
+  "source_pdf_size": 73003,
+  "source_page_count": 3,
+  "counts": {
+    "references": 2,
+    "works": 2,
+    "figures": 0,
+    "tables": 0,
+    "body_paragraphs": 24
+  },
+  "source_pdf_url": "https://zenodo.org/api/records/23540849/files/who-else-wants-to-know.pdf/content",
+  "generation_date_utc": "2026-10-21T19:07:22.266963+00:00",
+  "normalization": "Unicode NFC and whitespace collapse; visual PDF line wraps removed; repeated page numbers excluded; first-page copyright retained as separate footer; published section order and emphasis preserved",
+  "manual_corrections": [],
+  "preferred_citation": "Pierce, Brad. (2026). Who Else Wants to Know? Zenodo. https://doi.org/10.5281/zenodo.23540849"
+}

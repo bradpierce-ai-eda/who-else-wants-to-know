@@ -1,0 +1,52 @@
+{
+  "cff-version": "1.2.0",
+  "message": "The DOI-linked Zenodo edition is the publication of record.",
+  "type": "generic",
+  "title": "Who Else Wants to Know?",
+  "authors": [
+    {
+      "family-names": "Pierce",
+      "given-names": "Brad",
+      "orcid": "https://orcid.org/0009-0009-7427-2969"
+    }
+  ],
+  "date-released": "2026-10-21",
+  "doi": "10.5281/zenodo.23540849",
+  "url": "https://doi.org/10.5281/zenodo.23540849",
+  "license": "CC-BY-NC-4.0",
+  "keywords": [
+    "artificial intelligence",
+    "evidence discovery",
+    "question formation",
+    "collective purchasing",
+    "commissioned observations",
+    "observation finance",
+    "observation capability",
+    "evidence services"
+  ],
+  "preferred-citation": {
+    "type": "generic",
+    "title": "Who Else Wants to Know?",
+    "authors": [
+      {
+        "family-names": "Pierce",
+        "given-names": "Brad",
+        "orcid": "https://orcid.org/0009-0009-7427-2969"
+      }
+    ],
+    "date-released": "2026-10-21",
+    "doi": "10.5281/zenodo.23540849",
+    "url": "https://doi.org/10.5281/zenodo.23540849",
+    "license": "CC-BY-NC-4.0",
+    "keywords": [
+      "artificial intelligence",
+      "evidence discovery",
+      "question formation",
+      "collective purchasing",
+      "commissioned observations",
+      "observation finance",
+      "observation capability",
+      "evidence services"
+    ]
+  }
+}

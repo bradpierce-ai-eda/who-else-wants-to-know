@@ -1,0 +1,50 @@
+[
+  {
+    "id": "who_else_ref_001",
+    "type": "report",
+    "title": "When questions become markets: AI, evidence discovery, and the financing of new observations",
+    "author": [
+      {
+        "family": "Pierce",
+        "given": "Brad",
+        "ORCID": "https://orcid.org/0009-0009-7427-2969"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          19
+        ]
+      ]
+    },
+    "publisher": "Zenodo",
+    "DOI": "10.5281/zenodo.23464042",
+    "URL": "https://doi.org/10.5281/zenodo.23464042"
+  },
+  {
+    "id": "who_else_ref_002",
+    "type": "report",
+    "title": "When design exploration gets cheap: Upstream search, downstream truth, and the migration of scarcity in chip design",
+    "author": [
+      {
+        "family": "Pierce",
+        "given": "Brad",
+        "ORCID": "https://orcid.org/0009-0009-7427-2969"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          9
+        ]
+      ]
+    },
+    "publisher": "Zenodo",
+    "DOI": "10.5281/zenodo.23256253",
+    "URL": "https://doi.org/10.5281/zenodo.23256253"
+  }
+]

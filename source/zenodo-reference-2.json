@@ -1,0 +1,131 @@
+{
+  "created": "2026-10-09T07:51:31.945152+00:00",
+  "modified": "2026-10-09T07:51:32.336641+00:00",
+  "id": 23256253,
+  "conceptrecid": "23256252",
+  "doi": "10.5281/zenodo.23256253",
+  "conceptdoi": "10.5281/zenodo.23256252",
+  "doi_url": "https://doi.org/10.5281/zenodo.23256253",
+  "metadata": {
+    "title": "When Design Exploration Gets Cheap",
+    "doi": "10.5281/zenodo.23256253",
+    "publication_date": "2026-10-09",
+    "description": "<p>When AI lowers the cost of design exploration faster than it lowers the cost of authoritative evaluation, chip design reorganizes around what becomes relatively scarce: trusted evidence, accumulated context, engineering memory, and ultimately the authority to commit. The allocation problem is evaluator economics: deciding what evidence to obtain next, which evaluator has enough authority for the question at hand, when stronger evidence is worth its cost, and when to stop or escalate. EDA makes this evaluator-allocation problem unusually visible because its evaluators differ sharply in cost, latency, coverage, fidelity, authority, and consequence. The same cost asymmetry reorganizes control and value. Who controls the workflow, whose capability is difficult to substitute, and where economic value accrues are distinct questions and can have different answers. State, methodology, failure history, routing knowledge, and qualified integration can accumulate into technical capital even when they never become standalone software products. Separately owned technical capital can also operate as one engineering system when governed interfaces preserve authority, provenance, qualification, and ownership while allowing external evaluators to contribute authoritative evidence. Public evidence already shows the layered architecture in real deployment. That leaves four linked questions: where scarcity moves as exploration becomes cheap, what capital forms around the new scarcities, which ownership structures those conditions favor, and which of those assets can support durable economic value.</p>\n<p>Brad Pierce developed the central formulation and retains final editorial responsibility. AI assisted in preparing the paper.</p>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Pierce, Brad",
+        "affiliation": null,
+        "orcid": "0009-0009-7427-2969"
+      }
+    ],
+    "keywords": [
+      "electronic design automation",
+      "EDA",
+      "agentic AI",
+      "evaluator economics",
+      "routing capital",
+      "technical capital",
+      "technical capital intelligence",
+      "techcap",
+      "semiconductor design",
+      "design-space exploration"
+    ],
+    "version": "1.0",
+    "language": "eng",
+    "resource_type": {
+      "title": "Report",
+      "type": "publication",
+      "subtype": "report"
+    },
+    "license": {
+      "id": "cc-by-nc-4.0"
+    },
+    "relations": {
+      "version": [
+        {
+          "index": 0,
+          "is_last": true,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "23256252"
+          }
+        }
+      ]
+    }
+  },
+  "title": "When Design Exploration Gets Cheap",
+  "links": {
+    "self": "https://zenodo.org/api/records/23256253",
+    "self_html": "https://zenodo.org/records/23256253",
+    "preview_html": "https://zenodo.org/records/23256253?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.23256253",
+    "self_doi": "https://doi.org/10.5281/zenodo.23256253",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.23256253",
+    "reserve_doi": "https://zenodo.org/api/records/23256253/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/23256252",
+    "parent_html": "https://zenodo.org/records/23256252",
+    "parent_doi": "https://doi.org/10.5281/zenodo.23256252",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.23256252",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:23256253/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:23256253/sequence/default",
+    "files": "https://zenodo.org/api/records/23256253/files",
+    "media_files": "https://zenodo.org/api/records/23256253/media-files",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:23256253:when-design-exploration-gets-cheap.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:23256253:when-design-exploration-gets-cheap.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:23256253:when-design-exploration-gets-cheap.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:23256253:when-design-exploration-gets-cheap.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:23256253:when-design-exploration-gets-cheap.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:23256253:when-design-exploration-gets-cheap.pdf/full/%5E1200,/0/default.jpg"
+    },
+    "latest": "https://zenodo.org/api/records/23256253/versions/latest",
+    "latest_html": "https://zenodo.org/records/23256253/latest",
+    "versions": "https://zenodo.org/api/records/23256253/versions",
+    "draft": "https://zenodo.org/api/records/23256253/draft",
+    "access_links": "https://zenodo.org/api/records/23256253/access/links",
+    "access_grants": "https://zenodo.org/api/records/23256253/access/grants",
+    "access_users": "https://zenodo.org/api/records/23256253/access/users",
+    "access_request": "https://zenodo.org/api/records/23256253/access/request",
+    "access": "https://zenodo.org/api/records/23256253/access",
+    "communities": "https://zenodo.org/api/records/23256253/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/23256253/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/23256253/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/23256253/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/23256253/quota-increase",
+    "requests": "https://zenodo.org/api/records/23256253/requests"
+  },
+  "updated": "2026-10-09T07:51:32.336641+00:00",
+  "recid": "23256253",
+  "revision": 3,
+  "files": [
+    {
+      "id": "4a059642-b661-4038-9646-a4daee4328ff",
+      "key": "when-design-exploration-gets-cheap.pdf",
+      "size": 2017591,
+      "checksum": "md5:94213145dfd3de4849c254e0d43881f2",
+      "links": {
+        "self": "https://zenodo.org/api/records/23256253/files/when-design-exploration-gets-cheap.pdf/content"
+      }
+    }
+  ],
+  "swh": {},
+  "owners": [
+    {
+      "id": "1888563"
+    }
+  ],
+  "status": "published",
+  "stats": {
+    "downloads": 7,
+    "unique_downloads": 6,
+    "views": 16,
+    "unique_views": 16,
+    "version_downloads": 7,
+    "version_unique_downloads": 6,
+    "version_unique_views": 16,
+    "version_views": 16
+  },
+  "state": "done",
+  "submitted": true
+}
